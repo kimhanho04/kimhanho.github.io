@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김한호"
 description              : "귀여운 한호의 블로그~"
-url                      : "kimhanho.github.io"
+url                      : "https://kimhanho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kimhanho04/kimhanho.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
