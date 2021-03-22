@@ -97,7 +97,7 @@ author:
   name             : "김한호"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "한호 블로그"
-  location         : "흥덕고"
+  location         : "경기도 용인"
   email            : "kimhanho@gmail.com"
   links:
     - label: "Email"
