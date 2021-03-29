@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김한호"
-  avatar           : "/assets/images/증사.png"
+  avatar           : "/assets/images/증사.PNG"
   bio              : "한호의 블로그"
   location         : "경기도"
   email            : "kimhanho@gmail.com"
