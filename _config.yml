@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김한호"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/한호 흥덕고.jpg"
   bio              : "한호의 블로그"
   location         : "경기도"
   email            : "kimhanho@gmail.com"
